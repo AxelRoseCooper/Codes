@@ -1,3 +1,6 @@
+/*Axel 
+ * elcodigo trata sobre el juego de piedra papel o tijeras , le indicamos cada jugador una  palabra de esas tres y el codigo nos dice quien gano*/
+
 package mx.generation;
 
 import java.util.Scanner;
